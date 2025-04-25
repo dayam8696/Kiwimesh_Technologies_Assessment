@@ -39,4 +39,4 @@ Follow these steps to set up and run the app on your local machine:
 
 2. **Clone the Repository**  
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/dayam8696/Kiwimesh_Technologies_Assessment.git
